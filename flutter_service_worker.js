@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "65deaa281cf575030bb6914036ef16ea",
+const RESOURCES = {"flutter_bootstrap.js": "9f7d0cb7ac7ff04d32d8ca0e0ae70b2b",
 "manifest.json": "56128fc6ec7568b99d6fc24cfa34a218",
 "canvaskit/skwasm_heavy.js": "413f5b2b2d9345f37de148e2544f584f",
 "canvaskit/canvaskit.js": "140ccb7d34d0a55065fbd422b843add6",
@@ -25,7 +25,7 @@ const RESOURCES = {"flutter_bootstrap.js": "65deaa281cf575030bb6914036ef16ea",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "version.json": "f61733c180725dfaa416b3124b9f82af",
-"main.dart.js": "54fe325fde528e97efccf07a06e03169",
+"main.dart.js": "dc02e65d56a881309c6bdecad005e864",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/packages/eva_icons_flutter/lib/fonts/Eva-Icons.ttf": "b3cfd6832181cbaa3c98988c49d34641",
 "assets/packages/glass_kit/assets/noise.png": "86f22ae1a498bb8f0c39264f9c7c796c",
